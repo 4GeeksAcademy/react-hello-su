@@ -1,4 +1,22 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+body{
+    background-color: rgb(239, 176, 228);
+}
+.header {
+    color: #9f0762;
+    font-family: 'Sevillana', cursive;
+    font-size: 60px;
+    margin: 20% 0 3% 40%;
+}
+.timer {
+border: 16px ridge #9f0762;
+border-radius: 83px;
+width: 50%;
+margin-left: 25%;
+}
+h1 {
+    margin: 0 3px;
+}
 /* 
 
     You can write your own styles here...
